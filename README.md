@@ -52,4 +52,5 @@ YOLOv4 uses many new features and combines some of them to achieve state-of-the-
 
 - Open the YOLOv4 Darknet notebook at the top and follow the steps mentioned in the notebook. This notebook is prepared to find the location of the screws in the image. An example of the image and output is as follows.
 
+![yolov4 out](https://user-images.githubusercontent.com/78655282/129019805-7d236b7c-b8c6-46b7-9b61-50abc128718f.png)
 
